@@ -1,11 +1,6 @@
 @font-face {
-  font-family: Sunflower-Bold;
-  src: url(Sunflower/Sunflower-Bold.ttf);
-}
-
-@font-face {
-  font-family: Sunflower-Light;
-  src: url(Sunflower/Sunflower-Light.ttf);
+  font-family: Sunflower-Medium;
+  src: url(Sunflower/Sunflower-Medium.ttf);
 }
 
 @font-face {
@@ -110,7 +105,7 @@
     rgba(12, 73, 76, 1) 0%,
     rgba(3, 32, 39, 1) 92%
   );
-  font-family: Sunflower-Bold;
+  font-family: Sunflower-Medium;
   color: rgb(196, 195, 195);
 }
 .zsib-player-info span {
