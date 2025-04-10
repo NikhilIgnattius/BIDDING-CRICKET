@@ -62,7 +62,7 @@
   bottom: -52px;
   display: flex;
   justify-content: center;
-  gap: 3em;
+  gap: 56px;
   font-size: 1.5rem;
   padding: 0.5em;
   right: -4px;
@@ -147,7 +147,7 @@ img {
 .circle-img{
   position: absolute;
   width: 500px;
-  
+  bottom:-30px;
 }
 
 
