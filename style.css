@@ -59,7 +59,7 @@
 .zsib-name > p {
   margin: auto;
   font-size: 42px;
-  font-family: Sunflower-Bold;
+  font-family: Zoho-Puvi-Semibold;
   padding: 10px;
   /* border: 1px solid; */
   width: 60%;
@@ -110,7 +110,7 @@
     rgba(12, 73, 76, 1) 0%,
     rgba(3, 32, 39, 1) 92%
   );
-  font-family: Zoho-Puvi-Semibold;
+  font-family: Sunflower-Bold;
   color: rgb(196, 195, 195);
 }
 .zsib-player-info span {
@@ -118,9 +118,10 @@
   font-family: Zoho-Puvi-Semibold;
   margin-left: 8px;
   font-size: 32px;
+  padding-bottom: 4px;
 }
 
-.zsib-player-info  p{
+.zsib-player-info p{
   display: flex;
   align-items: center;
   justify-content: center;
