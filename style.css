@@ -8,6 +8,16 @@
   src: url(Sunflower/Sunflower-Light.ttf);
 }
 
+@font-face {
+  font-family: Zoho-Puvi-Medium;
+  src: url(Sunflower/Zoho\ Puvi\ Medium.ttf);
+}
+
+@font-face {
+  font-family: Zoho-Puvi-Semibold;
+  src: url(Sunflower/Zoho\ Puvi\ Semibold.ttf);
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -100,12 +110,12 @@
     rgba(12, 73, 76, 1) 0%,
     rgba(3, 32, 39, 1) 92%
   );
-  font-family: Sunflower-Light;
+  font-family: Zoho-Puvi-Semibold;
   color: rgb(196, 195, 195);
 }
 .zsib-player-info span {
   color: white;
-  font-family: Sunflower-Bold;
+  font-family: Zoho-Puvi-Semibold;
   margin-left: 8px;
   font-size: 32px;
 }
@@ -171,7 +181,7 @@ img {
   font-size: 24px;
 }
 .bid-price {
-  font-family: Sunflower-Bold;
+  font-family: Zoho-Puvi-Semibold;
   color: rgb(196, 195, 195);
   /* border: 1px solid; */
 }
@@ -180,7 +190,7 @@ img {
   border-bottom: none;
   margin-top: 0px;
   padding: 0;
-  font-family: Sunflower-Light;
+  font-family: Zoho-Puvi-Medium;
 }
 
 .circle-img {
